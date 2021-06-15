@@ -1,0 +1,11 @@
+{
+    "name": "mn98/se-project",
+    "license": "apache2",
+    "authors": [
+        {
+            "name": "melikabrkic18001422",
+            "email": "melika.brkic@stu.ibu.edu.ba"
+        }
+    ],
+    "require": {}
+}
