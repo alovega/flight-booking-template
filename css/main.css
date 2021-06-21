@@ -4494,3 +4494,16 @@ body.mobile-nav-active #mobile-nav-toggle {
 .footer-text a, .footer-text i {
   color: #f8b600;
 }
+
+.thead-yellow{
+  background-color:#f8b600 ;
+  color:#fff;
+}
+
+tr{
+  color: #000;
+}
+
+.btn{
+  margin: 5px;
+}
